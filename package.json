@@ -9,7 +9,7 @@
     "CHANGELOG.md"
   ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "semantic-release": "semantic-release"
   },
   "author": "",
   "license": "ISC",
@@ -19,5 +19,21 @@
     "eslint": "^8.39.0",
     "eslint-plugin-cypress": "^2.13.2",
     "eslint-plugin-vue": "^9.11.0"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^17.6.1",
+    "@commitlint/config-conventional": "^17.6.1",
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/npm": "^9.0.2",
+    "semantic-release": "^19.0.5",
+    "yorkie": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/upikoth/eslint-config-vue3.git"
+  },
+  "gitHooks": {
+    "commit-msg": "npx --no -- commitlint --edit"
   }
 }
