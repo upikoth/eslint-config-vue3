@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-vue3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "README.md",
+    "CHANGELOG.md"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vue/eslint-config-prettier": "^7.1.0",
+    "@vue/eslint-config-typescript": "^11.0.2",
+    "eslint": "^8.39.0",
+    "eslint-plugin-cypress": "^2.13.2",
+    "eslint-plugin-vue": "^9.11.0"
+  }
+}
