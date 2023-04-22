@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/upikoth/eslint-config-vue3/compare/v1.0.0...v1.0.1) (2023-04-21)
+
+
+### Bug Fixes
+
+* добавил описание в readme ([8f8ea8c](https://github.com/upikoth/eslint-config-vue3/commit/8f8ea8c83f2a34ddcb31f43b014629dc9c329ec0))
+
 # 1.0.0 (2023-04-21)
 
 
