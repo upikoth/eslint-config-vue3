@@ -4,7 +4,6 @@ module.exports = {
     'eslint:recommended',
     'plugin:vue/vue3-recommended',
     '@vue/eslint-config-typescript',
-    '@vue/eslint-config-prettier/skip-formatting',
   ],
   overrides: [
     {
@@ -17,5 +16,6 @@ module.exports = {
   },
   rules: {
     'vue/no-deprecated-slot-attribute': 0,
+    'vue/html-indent': ['error', 'tab'],
   },
 };
