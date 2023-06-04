@@ -30,5 +30,7 @@ module.exports = {
   rules: {
     indent: ['error', 'tab'],
     'no-console': 'warn',
+    // В конце файла всегда должна быть пустая строка.
+    'eol-last': ['error', 'always'],
   },
 };
