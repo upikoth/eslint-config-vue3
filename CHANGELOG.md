@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/upikoth/eslint-config-vue3/compare/v1.1.0...v1.2.0) (2023-06-04)
+
+
+### Features
+
+* **issue-1:** добавлено правило для проверки пустой строки в конце файла ([5a130a3](https://github.com/upikoth/eslint-config-vue3/commit/5a130a350e8ceabc165b350c328fa0e19bb425b7))
+
 # [1.1.0](https://github.com/upikoth/eslint-config-vue3/compare/v1.0.2...v1.1.0) (2023-06-04)
 
 
