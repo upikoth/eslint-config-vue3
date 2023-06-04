@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/upikoth/eslint-config-vue3/compare/v1.0.2...v1.1.0) (2023-06-04)
+
+
+### Features
+
+* добавлены правила indent и no-console, также комментарии для конфига ([60b6d99](https://github.com/upikoth/eslint-config-vue3/commit/60b6d99ee32fdb241e594ce79bee41bae83080e4))
+
 ## [1.0.2](https://github.com/upikoth/eslint-config-vue3/compare/v1.0.1...v1.0.2) (2023-05-01)
 
 
