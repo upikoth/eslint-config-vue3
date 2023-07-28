@@ -30,6 +30,7 @@ module.exports = {
   rules: {
     quotes: ['error', 'single'],
     indent: ['error', 'tab'],
+    'no-trailing-spaces': 'error',
     'no-console': 'warn',
     // В конце файла всегда должна быть пустая строка.
     'eol-last': ['error', 'always'],
