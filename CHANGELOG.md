@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/upikoth/eslint-config-vue3/compare/v1.2.0...v1.2.1) (2023-07-28)
+
+
+### Bug Fixes
+
+* **issue-8:** доработаты правила линтера ([fa336aa](https://github.com/upikoth/eslint-config-vue3/commit/fa336aa64efe4bd67789c683c5c1b940b6407fca))
+
 # [1.2.0](https://github.com/upikoth/eslint-config-vue3/compare/v1.1.0...v1.2.0) (2023-06-04)
 
 
