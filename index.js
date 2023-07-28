@@ -28,9 +28,19 @@ module.exports = {
   ],
   // Общие правила.
   rules: {
+    quotes: ['error', 'single'],
     indent: ['error', 'tab'],
     'no-console': 'warn',
     // В конце файла всегда должна быть пустая строка.
     'eol-last': ['error', 'always'],
+    // Убирает ";" в конце строки.
+    semi: ['error', 'never'],
+    'comma-dangle': ['error', 'never'],
+    'max-len': ['error', { code: 120 }],
+    // Настройки форматирования объектов json.
+    'object-property-newline': 'error',
+    'object-curly-newline': ['error', { multiline: true }],
+    'object-curly-spacing': ['error', 'always'],
+    'brace-style': 'error',
   },
 };
