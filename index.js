@@ -43,5 +43,11 @@ module.exports = {
     'object-curly-newline': ['error', { multiline: true }],
     'object-curly-spacing': ['error', 'always'],
     'brace-style': 'error',
+    'no-multiple-empty-lines': [
+      'error',
+      {
+        max: 1,
+      },
+    ],
   },
 };
