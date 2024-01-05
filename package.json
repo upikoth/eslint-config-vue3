@@ -9,7 +9,8 @@
     "CHANGELOG.md"
   ],
   "scripts": {
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release",
+		"lint:js": "eslint . --ext .js"
   },
   "author": "",
   "license": "ISC",
@@ -33,6 +34,7 @@
     "url": "https://github.com/upikoth/eslint-config-vue3.git"
   },
   "gitHooks": {
+		"pre-commit": "npm run lint:js",
     "commit-msg": "npx --no -- commitlint --edit"
   }
 }
