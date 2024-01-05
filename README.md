@@ -24,16 +24,16 @@ npm install @upikoth/eslint-config-vue3
 ```
 
 После установки библиотеки:
-+ добавить файл .stylelintrc.js
++ добавить файл .eslintrc.cjs
 ```
-const config = require('@upikoth/stylelint-config-vue3')
+const eslintConfig = require('@upikoth/eslint-config-vue3')
 
-module.exports = config
-
+module.exports = eslintConfig
 ```
++ добавить файл .eslintignore
 + добавить скрипт в package.json
 ```
-"lint:css": "stylelint \"src/**/*.{vue,scss}\"",
+"lint:js": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts"
 ```
 
 Дополнительные настройки для vscode:
