@@ -1,3 +1,17 @@
+## [1.2.3](https://github.com/upikoth/eslint-config-vue3/compare/v1.2.2...v1.2.3) (2023-12-15)
+
+
+### Bug Fixes
+
+* **issue-9:** добавил проверку на лишние \n ([357a99a](https://github.com/upikoth/eslint-config-vue3/commit/357a99a730f7df417d48bb44f8634b1b141df4b5))
+
+## [1.2.2](https://github.com/upikoth/eslint-config-vue3/compare/v1.2.1...v1.2.2) (2023-07-28)
+
+
+### Bug Fixes
+
+* **issue-7:** убрал trailing spaces ([4758644](https://github.com/upikoth/eslint-config-vue3/commit/4758644d92d19375dbc5822956a5e28568a9543c))
+
 ## [1.2.1](https://github.com/upikoth/eslint-config-vue3/compare/v1.2.0...v1.2.1) (2023-07-28)
 
 
