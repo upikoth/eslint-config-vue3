@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/upikoth/eslint-config-vue3/compare/v1.2.5...v1.3.0) (2024-01-05)
+
+
+### Features
+
+* добавил airbnb-base, переписал правила ([7aea815](https://github.com/upikoth/eslint-config-vue3/commit/7aea81507565781b8a59b9cfdd82d4d84bd49ead))
+
 ## [1.2.5](https://github.com/upikoth/eslint-config-vue3/compare/v1.2.4...v1.2.5) (2024-01-05)
 
 
