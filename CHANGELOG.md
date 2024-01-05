@@ -1,3 +1,10 @@
+## [1.2.4](https://github.com/upikoth/eslint-config-vue3/compare/v1.2.3...v1.2.4) (2024-01-05)
+
+
+### Bug Fixes
+
+* **issue-9:** добавил проверку на лишние \n ([59df22a](https://github.com/upikoth/eslint-config-vue3/commit/59df22ac24babffbc66bff8f84be9cae577ff38b))
+
 ## [1.2.3](https://github.com/upikoth/eslint-config-vue3/compare/v1.2.2...v1.2.3) (2023-12-15)
 
 
