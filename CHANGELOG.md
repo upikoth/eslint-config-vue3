@@ -1,3 +1,11 @@
+## [1.2.5](https://github.com/upikoth/eslint-config-vue3/compare/v1.2.4...v1.2.5) (2024-01-05)
+
+
+### Bug Fixes
+
+* в проект добавлен линтер и проверки на линтер перед коммитом и в ci/cd ([c8d293d](https://github.com/upikoth/eslint-config-vue3/commit/c8d293d1ba1b9ed9db1d2eb4d6f20e53e8e63266))
+* правки ci/cd ([2d74d7a](https://github.com/upikoth/eslint-config-vue3/commit/2d74d7ae0095d448ae21d0f134bc2012d670745c))
+
 ## [1.2.4](https://github.com/upikoth/eslint-config-vue3/compare/v1.2.3...v1.2.4) (2024-01-05)
 
 

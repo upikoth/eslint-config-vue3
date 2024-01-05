@@ -1,6 +1,6 @@
 {
   "name": "@upikoth/eslint-config-vue3",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "",
   "main": "index.js",
   "files": [
@@ -10,7 +10,7 @@
   ],
   "scripts": {
     "semantic-release": "semantic-release",
-		"lint:js": "eslint . --ext .js"
+    "lint:js": "eslint . --ext .js"
   },
   "author": "",
   "license": "ISC",
@@ -34,7 +34,7 @@
     "url": "https://github.com/upikoth/eslint-config-vue3.git"
   },
   "gitHooks": {
-		"pre-commit": "npm run lint:js",
+    "pre-commit": "npm run lint:js",
     "commit-msg": "npx --no -- commitlint --edit"
   }
 }
