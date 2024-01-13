@@ -16,7 +16,7 @@ module.exports = {
 	],
 	rules: {
 		quotes: ['error', 'single'],
-		indent: ['error', 'tab'],
+		indent: ['error', 'tab', { SwitchCase: 1 }],
 		'no-tabs': 'off',
 		'vue/html-indent': ['error', 'tab'],
 		'no-trailing-spaces': 'error',
