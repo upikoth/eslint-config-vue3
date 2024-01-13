@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/upikoth/eslint-config-vue3/compare/v1.3.0...v1.3.1) (2024-01-13)
+
+
+### Bug Fixes
+
+* поправил отступ для switch case ([f695e78](https://github.com/upikoth/eslint-config-vue3/commit/f695e780ce5e7c4d0c391614dcaa3a0a31ae9e16))
+
 # [1.3.0](https://github.com/upikoth/eslint-config-vue3/compare/v1.2.5...v1.3.0) (2024-01-05)
 
 
